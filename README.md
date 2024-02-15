@@ -40,8 +40,4 @@
 ### WEEK6:
 - Project 2: Comming soon
 
-
-  
-
-
-
+![](diagram-export-2-3-2024-10_30_35-PM.png)
